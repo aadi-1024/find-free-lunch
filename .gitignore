@@ -1,3 +1,5 @@
 env
 __pycache__
 .idea
+dist
+find_free_lunch.egg-info
